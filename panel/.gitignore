@@ -1,0 +1,7 @@
+downloads
+*.swp
+db.php
+.htaccess_
+globals.php
+backups
+extramenu.php

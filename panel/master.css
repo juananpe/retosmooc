@@ -1,0 +1,24 @@
+@charset "utf-8";
+p{margin:1.12em 0;font-size:15px;}
+body{font-family:"Times New Roman",Times,serif;background-color:#E9EAED;margin-left:0px;}
+.center{margin-left:auto;margin-right:auto;width:80%;}
+.left{float:left;margin-right:4%; width:45%;}
+.right{width:45%;float:left}
+.bottom{clear:both;}
+.users{clear:both}
+.todos {border: 1px solid;overflow: hidden;border-color: #e5e6e9 #dfe0e4 #d0d1d5;border-radius: 5px; background-color:#FFFFFF;padding-left:10px}
+.evaluados {float: right;width: 50%;border-left:2px solid; border-left-color:#E9EAED;padding-left:10px;display:block;}
+h4{text-align:center;}
+#menu {list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;position: fixed;top: 0;width: 100%;}
+.item {float: left;}
+.item a {display: block;color: white;text-align: center;padding: 14px 16px;text-decoration: none;}
+.item a:hover:not(.active) {background-color: #111;}
+#preguntas{width:100%;background-color: #FFFFFF;border-radius: 5px;border-color: #e5e6e9 #dfe0e4 #d0d1d5 !important;border: 1px solid;padding: 3px;border-spacing: 0;}
+.deadline{text-align:center;}
+#tableTitle{width:80%}
+.clickable{cursor: pointer;}
+th{border:1px solid;border-color:#E9EAED}
+td{padding-top: 5px;padding-bottom: 5px;padding-left: 10px;}
+.grey{background-color:#E9EAED}
+.white{background-color:#FFFFFF }
+#grades{display:block;}

@@ -1,0 +1,6 @@
+<?
+  if (isset($_SESSION['admin'])){
+?>
+	  <li class="item"><a href="stats.php">Stats</a></li>
+
+<? } 
